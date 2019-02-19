@@ -21,4 +21,20 @@
 	- What's the difference between an onion address and the others ?
     - Demonstration
 
+	
+	
+# References :
+
+
+https://nordvpn.com/fr/blog/how-to-register-onion-domain/
+
+https://www.torproject.org/docs/tor-onion-service.html.en
+
+https://www.deepdotweb.com/2017/10/14/tor-update-supports-v3-onion-services/
+
+https://www.youtube.com/watch?v=rg6bbKrbt1s
+
+https://www.youtube.com/watch?v=zjqw1VnuKLs
+
+
 
