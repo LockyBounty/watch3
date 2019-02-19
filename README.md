@@ -18,6 +18,7 @@
 
 3. Hide your website and get an onion address
     - In wich case ?
+	- What's the difference between an onion address and the others ?
     - Demonstration
 
 
