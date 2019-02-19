@@ -1,6 +1,6 @@
 Give to your website an onion address
 
-1. Install TOR or just get the TOR bundle
+Install TOR or just get the TOR bundle
 
 
 
@@ -10,5 +10,8 @@ Open torrc file
 HiddenServiceDir C:\Users\Name\tor_service
 HiddenServicePort 80 127.0.0.1:80
 
+
+
+Some onion site
 
 http://2ogmrlfzdthnwkez.onion/

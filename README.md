@@ -6,7 +6,7 @@
     - What is TOR ?
     - How to get an access and how it works ?
         - Webbrowsers
-        - Encryption
+        
     - What can we find in there ?
      
 
